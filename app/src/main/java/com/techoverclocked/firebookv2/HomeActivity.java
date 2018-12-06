@@ -73,7 +73,7 @@ public class HomeActivity extends AppCompatActivity
             startActivity(new Intent(HomeActivity.this, LoginActivity.class));
             finish();
         } else if (id == R.id.nav_send) {
-
+            Toast.makeText(this, "Check", Toast.LENGTH_SHORT).show();
         }
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
