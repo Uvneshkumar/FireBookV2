@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331246247180",
+    "firebase_url": "https://firebookv2.firebaseio.com",
+    "project_id": "firebookv2",
+    "storage_bucket": "firebookv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331246247180:android:de00248e1c0c6533",
+        "android_client_info": {
+          "package_name": "com.techoverclocked.firebookv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331246247180-eil0nqp7nrhom7a4hr33sde4viloghhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techoverclocked.firebookv2",
+            "certificate_hash": "aa5e17d2b7e911f61dd3e4f7027803cdbd6d2679"
+          }
+        },
+        {
+          "client_id": "331246247180-dn40jq9kc1q1g4pndbi7b2vccuf86m26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3n7JKqhOBQR5pr1OR1dEZiT4umSfeGHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331246247180-dn40jq9kc1q1g4pndbi7b2vccuf86m26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
